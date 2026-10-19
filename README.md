@@ -4,7 +4,12 @@
 
 ## Opis programu
 
-GitPractice jest niewielką aplikacją konsolową w C#. Program wyświetla powitanie oraz sumę elementów tablicy.
+GitPractice jest niewielką aplikacją konsolową w C#. Dla zdefiniowanej tablicy liczb program wyświetla:
+- powitanie,
+- sumę elementów,
+- średnią arytmetyczną,
+- liczbę elementów,
+- wartość maksymalną.
 
 ## Uruchomienie
 
